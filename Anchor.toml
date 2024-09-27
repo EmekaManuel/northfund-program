@@ -11,7 +11,7 @@ northfund_program = "G12WJ5jg5BUuQtf1H3L4d3WRqNDKHo4RG5qjFHC1NqK2"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "./id.json"
 
 [scripts]
